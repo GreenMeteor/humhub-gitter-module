@@ -1,0 +1,10 @@
+{
+    "id": "gitter",
+    "name": "Gitter",
+    "description": "Adds a Gitter sidecar (widget) to HumHub`s sidebar.",
+    "keywords": ["gitter", "widget", "sidecar"],
+    "version": "0.1",
+    "humhub": {
+        "minVersion": "1.2"
+    }
+}
