@@ -1,0 +1,8 @@
+.room-list-item__unread-badge {
+  color: black;
+}
+
+pre code {
+  text-rendering: optimizeLegibility;
+  font-family: Hasklig, monospace;
+}
