@@ -1,4 +1,4 @@
-# humhub-gitter-module
-Creates a Gitter.im widget on the sidebar of your HumHub installation.
+# [HumHub](https://www.humhub.org/en) Gitter Module
+Creates a Gitter.im sidecar on the side of your HumHub website.
 
 ## Under development
