@@ -16,3 +16,5 @@ Adds a Gitter chat **bubble** on the Dashboard, Space, and profile.
 __Author:__ GreenVolume
 
 Inspired by works of WebCrew
+
+# DO NOT USE THIS MODULE IT'S UNDER DEVELOPMENT!
