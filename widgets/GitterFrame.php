@@ -10,6 +10,7 @@ class GitterFrame extends Widget
 
     public function run()
     {
-        return $this->render('/config/index', []);
+
+        return $this->render('gitterframe', []);
     }
 }

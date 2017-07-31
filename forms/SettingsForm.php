@@ -11,9 +11,11 @@ class SettingsForm extends \yii\base\Model
     public function rules()
     {
         return [
+
             [['sort'],'safe'],
             [['sort'],'required'],
             [['sort'],'integer','min' => 0,'max' => '2000']
+
         ];
     }
 
