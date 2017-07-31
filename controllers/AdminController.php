@@ -1,9 +1,10 @@
 <?php
+
 namespace humhub\modules\gitter\controllers;
 
 use Yii;
-use humhub\models\Setting;
 use yii\helpers\Url;
+use humhub\models\Setting;
 
 class AdminController extends \humhub\modules\admin\components\Controller
 {

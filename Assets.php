@@ -10,7 +10,7 @@ class Assets extends AssetBundle
     public $publishOptions = [
         'forceCopy' => true
     ];
-    
+
     public $css = [
         'gitter.css'
     ];
