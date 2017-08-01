@@ -2,7 +2,7 @@
 Creates a Gitter.im sidecar on the side of your HumHub website.
 
 ## Under development
-=======
+
 ## **[Humhub](https://www.humhub.org) Gitter Chat Module**
 
 Adds a Gitter chat **bubble** on the Dashboard, Space, and profile.
