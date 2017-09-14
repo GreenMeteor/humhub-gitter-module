@@ -6,7 +6,7 @@ use humhub\models\Setting;
 ?>
 <div class="panel">
   <div class="panel-heading">
-    <?=Yii::t('GitterModule.base', '<strong>Gitter</strong> Chat'); ?>
+    <?=Yii::t('base', '<strong>Gitter</strong> Chat'); ?>
   </div>
   <div class="panel-body">
 
