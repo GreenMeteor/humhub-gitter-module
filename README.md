@@ -10,8 +10,8 @@ Adds a Gitter chat **bubble** on the Dashboard, Space, and profile.
 ### Installation
 
 -  open: `/widgets/views/gitterframe.php`
--  paste your Gitter Chat Widget code on [line 13](https://github.com/GreenVolume/humhub-gitter-module/blob/master/widgets/views/gitterframe.php#L13)
--  then save changes and upload the module to HumHub/protected/modules
+-  paste your Gitter Chat Widget code on [line 8](/widgets/views/gitterframe.php#L8)
+-  then save changes and upload the module to `/protected/modules`
 -  rename the module to **gitter**
 -  go to your HumHub installation ACP and activate the module
 
